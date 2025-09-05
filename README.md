@@ -17,7 +17,11 @@ a)Comprobar estadísticamente la capacidad de la red de Hopfield ‘82 calculand
 Perror||pmax/N
 
 0,001 || 0,105
+
 0,0036|| 0,138 
+
 0,01  || 0,185
+
 0,05  || 0,37
+
 0,1   || 0,61

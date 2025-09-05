@@ -1,5 +1,6 @@
 # TP1-Aprendizaje-profundo-Red-Hopfield
 1.Entrene una red de Hopfield ‘82 con las imágenes binarias disponibles en el campus.
+
 a)Verifique si la red aprendió las imágenes enseñadas.
 b)Evalúe la evolución de la red al presentarle versiones alteradas de las imágenes aprendidas: agregado de ruido, elementos borrados o agregados.
 c)Evalúe la existencia de estados espurios en la red: patrones inversos y combinaciones de un número impar de patrones. (Ver Spurious States, en la sección 2.2, Hertz, Krogh & Palmer, pág. 24).

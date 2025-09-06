@@ -15,3 +15,4 @@ d)Realice un entrenamiento con las 6 imágenes disponibles. ¿Es capaz la red de
 a)Comprobar estadísticamente la capacidad de la red de Hopfield ‘82 calculando la cantidad máxima de patrones pseudo-aleatorios aprendidos en función del tamaño de la red. Obtener experimentalmente los resultados de la siguiente tabla (los valores de la tabla corresponden a una iteración con actualización sincrónica)
 
       
+![Ejemplo Imagen](imagen_2025-09-06_014827567.png)

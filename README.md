@@ -5,5 +5,6 @@ Pequeña pero breve introducción: Este proyecto implementa una red neuronal de 
 
 Resolución:
 ## 1 - a) Verificación del aprendizaje. La red recuerda lo que aprendió?
+En esta sección, cargamos 3 imágenes simples (paloma, perro y panda).
 ![Imagenes](imagen_2025-09-06_023525787.png)
 

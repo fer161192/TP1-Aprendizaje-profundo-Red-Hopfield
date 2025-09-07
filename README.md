@@ -139,8 +139,3 @@ Para nuestras imágenes (52×52 = 2704 píxeles), la capacidad máxima teórica 
 ≈
 373
  patrones.
-p
-max
-	​
-
-≈0.138×2704≈373 patrones.

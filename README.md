@@ -30,5 +30,5 @@ En este apartado probamos qué tan robusta es la red de Hopfield cuando le damos
 Realicé tres tipos de pruebas:
 ### 1. Imágenes parcialmente tapadas:
   * Tapamos la mitad de abajo de las 3 respectivas imágenes.
-    
-  * 
+
+![Imagenes](imagen_2025-09-06_231030043.png)

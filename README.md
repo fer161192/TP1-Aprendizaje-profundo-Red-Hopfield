@@ -45,4 +45,4 @@ La conclusión de este punto es que incluso con un 50% de los píxeles tapados, 
   * Con ruido muy alto (50% o 90%), los resultados fueron mucho peores, porque la entrada ya no se parece a lo aprendido.
     
   Imágenes con 10% de ruido:
-  ![Imagen]
+![Imagen](imagenes_con_10%_de_ruido.png)

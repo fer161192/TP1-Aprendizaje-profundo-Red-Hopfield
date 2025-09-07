@@ -104,3 +104,13 @@ Primer tipo de estado espurio (Patrones inversos):
 Segundo tipo de estado espurio (Combinación de número impar de patrones):
 
 ![Imagenes](estados_espurios_2.png)
+
+## 1 - d) Entrenamiento con las 6 imágenes
+En este punto entrenamos la red de Hopfield con las 6 imágenes disponibles (paloma, panda, perro, quijote, torero y V de Vendetta).
+Resultados: 
+* La red logró recordar correctamente 4 imágenes.
+* Las imágenes de la paloma y el panda no fueron aprendidas de forma correcta, mostrando versiones incompletas o distorsionadas.
+
+![Imagenes]()
+
+![Imagenes]()

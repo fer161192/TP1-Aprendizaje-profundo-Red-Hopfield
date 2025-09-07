@@ -51,3 +51,7 @@ La conclusión de este punto es que incluso con un 50% de los píxeles tapados, 
   Este es el resultado de la reconstrucción que le aplicó la red a las imagenes que tenían 10% de ruido:
 
 ![Imagenes](imagenes_reconstruidas_por_la_red_con_10_de_ruido.png)
+
+  Imágenes con 50% de ruido:
+
+![Imagenes](imagenes_con_50_de_ruido.png)

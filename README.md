@@ -46,4 +46,4 @@ La conclusión de este punto es que incluso con un 50% de los píxeles tapados, 
     
   Imágenes con 10% de ruido:
   
-![Imagenes](imagenes_con_10%_de_ruido.png)
+![Imagenes](imagenes_con_10_de_ruido.png)

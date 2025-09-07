@@ -155,3 +155,5 @@ En este punto buscamos comprobar cuántos patrones puede recordar correctamente 
 * Repetimos este experimento muchas veces y medimos la tasa de error promedio (Perror).
 El resultado se expresa como la relación entre la cantidad de patrones almacenados y el número de neuronas de la red (pmax/N).
 La tabla siguiente muestra la comparación entre los valores teóricos y los obtenidos experimentalmente en nuestra simulación:
+
+![Imagenes](tabla.png)

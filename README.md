@@ -75,5 +75,9 @@ La conclusión de este punto es que incluso con un 50% de los píxeles tapados, 
   * Para este caso, hemos probado con borrar los pixeles del set imagenes. Primero con el 50% de pixeles borrados y luego con el 90% de pixeles borrados.
 
     Pixeles borrados al 50%
-    
-  
+
+![Imagenes](imagenes_con_50_de_pixeles_borrados.png)
+
+  Pixeles borrados al 90%
+
+![Imagenes](

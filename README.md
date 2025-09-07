@@ -139,3 +139,10 @@ Para nuestras imágenes (52×52 = 2704 píxeles), la capacidad máxima teórica 
 ≈
 373
  patrones.
+
+Esto es muchísimo más que 6, por lo que parecería que no debería haber problema.
+Sin embargo, en la práctica la red no funciona bien cuando los patrones son similares entre sí (no ortogonales). 
+En nuestro caso, la paloma y el panda comparten ciertas características, lo que genera interferencia al almacenarse junto con las demás imágenes.
+
+Conclusión: Aunque teóricamente la red puede almacenar cientos de patrones, en la práctica su desempeño real es mucho menor debido a la superposición y similitud entre imágenes. 
+Por eso, solo 4 de las 6 fueron recordadas con éxito.

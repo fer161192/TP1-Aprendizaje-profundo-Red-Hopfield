@@ -40,3 +40,6 @@ Realicé tres tipos de pruebas:
 La conclusión de este punto es que incluso con un 50% de los píxeles tapados, mas de la mitad de las imágenes seguían siendo reconocibles.
 
 ### 2. Imágenes con ruido:
+  * Introdujimos ruido aleatorio, invirtiendo valores de algunos píxeles.
+  * Con niveles bajos de ruido (10% o 30%), la red reconstruyó casi perfectamente las imágenes.
+  * Con ruido muy alto (50% o 90%), los resultados fueron mucho peores, porque la entrada ya no se parece a lo aprendido o reconstruia la imagen con valores de colores invertidos.

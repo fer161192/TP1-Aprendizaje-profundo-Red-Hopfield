@@ -120,3 +120,27 @@ Las imágenes que utilizadas para el entrenamiento:
 Las imágenes que no fueron aprendidas:
 
 ![Imagenes](resultados.png)
+
+Explicación sencilla de lo que pasa:
+La red de Hopfield tiene una capacidad limitada de memoria.
+En teoría, la cantidad máxima de patrones que puede almacenar sin errores está dada por:
+  pmax​≈0.138×N
+donde N es la cantidad de neuronas (en este caso, los píxeles de cada imagen).
+Para nuestras imágenes (52×52 = 2704 píxeles), la capacidad máxima teórica es:
+
+𝑝
+𝑚
+𝑎
+𝑥
+≈
+0.138
+×
+2704
+≈
+373
+ patrones.
+p
+max
+	​
+
+≈0.138×2704≈373 patrones.

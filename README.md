@@ -71,3 +71,5 @@ La conclusión de este punto es que incluso con un 50% de los píxeles tapados, 
   Esto muestra el límite de memoria de la red: puede corregir errores hasta cierto punto, pero no recuperar una imagen que está casi destruida.
 
   ### 3. Imágenes con eliminación de píxeles:
+  
+    * P

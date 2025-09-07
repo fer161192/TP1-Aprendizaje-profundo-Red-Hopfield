@@ -89,3 +89,10 @@ La conclusión de este punto es que incluso con un 50% de los píxeles tapados, 
 ![Imagenes](imagenes_recuperadas_con_50_de_pixeles_borrados.png)
 
 ![Imagenes](imagenes_recuperadas_con_90_de_pixeles_borrados.png)
+
+## 1 - c) Estados Espurios en la Red de Hopfield
+Una red de Hopfield no solo puede recuperar los patrones que le enseñamos, sino también otros estados no deseados llamados estados espurios. 
+Estos aparecen porque, al superponerse los recuerdos, la red genera "mínimos de energía falsos" que no corresponden a imágenes originales.
+
+* Patrones inversos: si la red aprendió una imagen con fondo blanco y figura negra, el inverso es la misma figura pero con colores invertidos. El experimento mostró que estos inversos fueron reconocidos como estados estables, por lo tanto, son estados espurios.
+* Combinaciones de un número impar de patrones: al mezclar varias imágenes y dárselas a la red, esta también las estabilizó en un estado que no era ninguna de las imágenes originales, confirmando otro caso de estado espurio.

@@ -80,4 +80,9 @@ La conclusión de este punto es que incluso con un 50% de los píxeles tapados, 
 
   Pixeles borrados al 90%
 
-![Imagenes](
+![Imagenes](imagenes_con_90_de_pixeles_borrados.png)
+
+  * La conclusión para ambos casos, es que la red fue capaz de recuperar todas las imagenes, lo que demuestra su alta capacidad de memoria para estos casos.
+
+    Set de imágenes recuperadas para ambos casos
+    

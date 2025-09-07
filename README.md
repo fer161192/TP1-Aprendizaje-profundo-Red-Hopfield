@@ -23,3 +23,5 @@ La prueba fue la siguiente:
   
 Resultado: Todas las imágenes fueron recordadas correctamente: la red devolvió la misma que se le había enseñado.
 Esto significa que la red realmente aprendió esos patrones y puede almacenarlos en su “memoria asociativa”.
+
+## 1 - b) Evaluación de la red con imágenes alteradas

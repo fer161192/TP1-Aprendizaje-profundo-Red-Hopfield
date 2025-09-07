@@ -96,3 +96,11 @@ Estos aparecen porque, al superponerse los recuerdos, la red genera "mínimos de
 
 * Patrones inversos: si la red aprendió una imagen con fondo blanco y figura negra, el inverso es la misma figura pero con colores invertidos. El experimento mostró que estos inversos fueron reconocidos como estados estables, por lo tanto, son estados espurios.
 * Combinaciones de un número impar de patrones: al mezclar varias imágenes y dárselas a la red, esta también las estabilizó en un estado que no era ninguna de las imágenes originales, confirmando otro caso de estado espurio.
+
+Primer tipo de estado espurio (Patrones inversos):
+
+![Imagenes](estados_espurios_1.png)
+
+Segundo tipo de estado espurio (Combinación de número impar de patrones):
+
+![Imagenes](estados_espurios_2.png)

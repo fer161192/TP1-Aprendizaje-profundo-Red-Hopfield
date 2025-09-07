@@ -34,4 +34,4 @@ Realicé tres tipos de pruebas:
 ![Imagenes](imagen_2025-09-06_231030043.png)
   * Al reconstruirlas, la red fue capaz de recuperar bastante bien la forma original, demostrando que “rellena” la información faltante a partir de lo que aprendió. Excepto por la última imagen
 
-    
+![Imagenes](imagen_2025-09-06_231714290.png)

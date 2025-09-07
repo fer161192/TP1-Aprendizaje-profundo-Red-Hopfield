@@ -146,3 +146,12 @@ En nuestro caso, la paloma y el panda comparten ciertas características, lo que
 
 Conclusión: Aunque teóricamente la red puede almacenar cientos de patrones, en la práctica su desempeño real es mucho menor debido a la superposición y similitud entre imágenes. 
 Por eso, solo 4 de las 6 fueron recordadas con éxito.
+
+## 2 - a) Capacidad de almacenamiento de la red Hopfield
+
+En este punto buscamos comprobar cuántos patrones puede recordar correctamente la red de Hopfield antes de empezar a equivocarse. Para ello:
+* En vez de imágenes, usamos patrones aleatorios de -1 y +1.
+* Entrenamos la red con diferentes cantidades de patrones y probamos si, al presentarlos de nuevo, la red los mantiene estables (es decir, si los “recuerda”).
+* Repetimos este experimento muchas veces y medimos la tasa de error promedio (Perror).
+El resultado se expresa como la relación entre la cantidad de patrones almacenados y el número de neuronas de la red (pmax/N).
+La tabla siguiente muestra la comparación entre los valores teóricos y los obtenidos experimentalmente en nuestra simulación:

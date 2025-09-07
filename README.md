@@ -44,4 +44,5 @@ La conclusión de este punto es que incluso con un 50% de los píxeles tapados, 
   * Con niveles bajos de ruido (10% o 30%), la red reconstruyó casi perfectamente las imágenes.
   * Con ruido muy alto (50% o 90%), los resultados fueron mucho peores, porque la entrada ya no se parece a lo aprendido.
     
-  
+  Imágenes con 10% de ruido:
+  ![Imagen](imagenes con 10% de ruido.png) 

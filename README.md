@@ -38,3 +38,5 @@ Realicé tres tipos de pruebas:
 ![Imagenes](imagen_2025-09-06_232722530.png)
 
 La conclusión de este punto es que incluso con un 50% de los píxeles tapados, mas de la mitad de las imágenes seguían siendo reconocibles.
+
+### 2. Imágenes con ruido:

@@ -69,3 +69,5 @@ La conclusión de este punto es que incluso con un 50% de los píxeles tapados, 
 ![Imagenes](imagenes_reconstruidas_por_la_red_con_90_de_ruido.jpg)
 
   Esto muestra el límite de memoria de la red: puede corregir errores hasta cierto punto, pero no recuperar una imagen que está casi destruida.
+
+  ### 3. Imágenes con eliminación de píxeles:

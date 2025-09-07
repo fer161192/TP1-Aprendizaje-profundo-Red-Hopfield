@@ -26,3 +26,9 @@ Esto significa que la red realmente aprendió esos patrones y puede almacenarlos
 
 ## 1 - b) Evaluación de la red con imágenes alteradas
 
+En este apartado probamos qué tan robusta es la red de Hopfield cuando le damos imágenes modificadas en lugar de las originales. La idea es ver si la red puede "recordar" y reconstruir correctamente la versión aprendida, incluso cuando la entrada tiene errores o está incompleta.
+Realicé tres tipos de pruebas:
+### 1. Imágenes parcialmente tapadas:
+  * Tapamos la mitad de abajo de las 3 respectivas imágenes.
+    
+  * 

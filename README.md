@@ -63,3 +63,9 @@ La conclusión de este punto es que incluso con un 50% de los píxeles tapados, 
   Imágenes con 90% de ruido:
 
 ![Imagenes](imagenes_con_90_de_ruido.png)
+
+  Este es el resultado de la reconstrucción que le aplicó la red a las imágenes que teniían 90% de ruido:
+
+![Imagenes](imagenes_reconstruidas_por_la_red_con_90_de_ruido.jpg)
+
+  Esto muestra el límite de memoria de la red: puede corregir errores hasta cierto punto, pero no recuperar una imagen que está casi destruida.

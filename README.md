@@ -35,3 +35,6 @@ Realicé tres tipos de pruebas:
   * Al reconstruirlas, la red fue capaz de recuperar bastante bien la forma original, demostrando que “rellena” la información faltante a partir de lo que aprendió. Excepto por la última imagen:
 
 ![Imagenes](imagen_2025-09-06_231714290.png)
+![Imagenes](imagen_2025-09-06_232722530.png)
+
+La conclusión de este punto es que incluso con un 50% de los píxeles tapados, mas de la mitad de las imágenes seguían siendo reconocibles.

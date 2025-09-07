@@ -110,7 +110,13 @@ En este punto entrenamos la red de Hopfield con las 6 imágenes disponibles (pal
 Resultados: 
 * La red logró recordar correctamente 4 imágenes.
 * Las imágenes de la paloma y el panda no fueron aprendidas de forma correcta, mostrando versiones incompletas o distorsionadas.
+  
+Las imágenes que utilizadas para el entrenamiento:
 
-![Imagenes]()
+![Imagenes](imagenes_para_entrenar_parte1.png)
 
-![Imagenes]()
+![Imagenes](imagenes_para_entrenar_parte2.png)
+
+Las imágenes que no fueron aprendidas:
+
+![Imagenes](resultados.png)

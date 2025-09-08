@@ -157,3 +157,25 @@ El resultado se expresa como la relación entre la cantidad de patrones almacena
 La tabla siguiente muestra la comparación entre los valores teóricos y los obtenidos experimentalmente en nuestra simulación:
 
 ![Imagenes](tabla.png)
+
+Conclusión: La red Hopfield mostró un comportamiento muy cercano a lo esperado por la teoría, 
+confirmando que su capacidad de almacenamiento depende del número de neuronas, 
+y que al superar cierto límite empiezan a aparecer errores en el recuerdo de los patrones.
+
+## 2 - b) Análisis de la capacidad con patrones correlacionados
+
+En este inciso buscamos analizar cómo influye la correlación entre patrones en la capacidad de recuperación de la red de Hopfield.
+Para hacerlo, partimos de un patrón base aleatorio y generamos variantes de ese patrón alterando cada bit con una cierta probabilidad P(C) (probabilidad de cambio).
+* Si P(C) = 0: todos los patrones generados son idénticos al patrón base → máxima correlación.
+* Si P(C) = 1: todos los patrones son el inverso del patrón base → máxima anti-correlación.
+* Si 0 < P(C) < 1: se generan patrones más variados, con distintos grados de correlación.
+
+Con este conjunto de patrones entrenamos la red y luego intentamos recuperar cada patrón después de agregarles un 90% de ruido.
+El resultado se puede visualizar en el gráfico: 
+* Para P(C) = 0 o P(C) = 1, el error fue muy alto, ya que la red solo almacenó copias idénticas (o inversas) del mismo patrón. Esto limita su capacidad de almacenamiento.
+* Para valores intermedios (P(C) ≈ 0.4 – 0.6), el error de recuperación fue mucho menor, porque los patrones son más diversos y menos correlacionados entre sí, lo que mejora el desempeño de la red.
+Conclusión: La capacidad de la red de Hopfield depende fuertemente de la independencia entre los patrones. Mientras más correlacionados estén, peor será la recuperación.
+En cambio, con patrones menos correlacionados, la red logra una mayor robustez frente a ruido.
+
+![Imagenes](grafico.png)
+![
